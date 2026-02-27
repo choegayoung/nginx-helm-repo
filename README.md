@@ -7,4 +7,4 @@ Helm chart repository provided by choegayoung
         helm repo list
         helm repo update
         helm search repo mynginx
-        helm install webserver nginx-helm-repo/mynginx
+        helm install t1 nginx-helm-repo/mynginx
